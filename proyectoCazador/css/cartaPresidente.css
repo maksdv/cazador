@@ -1,0 +1,21 @@
+section{
+	width: 80%;
+	margin-left:10%;
+	 border: 10px double green;
+}
+#text{
+	margin-top: 10%;
+	padding: 10px;
+}
+#esquema2{
+	margin-left: 25%;
+}
+#descripcion{
+	font-size: 15px;
+	width: 200px;
+	float: right;
+}
+#logos{
+	float: right;
+	margin: 10px;
+}
