@@ -5,7 +5,7 @@
 .cabeza{
 	background-image: url("../images/descarga.jpg");
 	width: 99%;
-	height: 16%;
+	height: auto;
 	margin: 0;
 	z-index: 10;
 	position: fixed;
