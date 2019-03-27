@@ -25,8 +25,8 @@
 					<li><a href="">Hazte socio</a></li>
 					<li><a href="">Contacto</a>
 					<ul>
-							<li><a href="">Solicitud nuevos socios</a></li>
-							<li><a href="">Solicitud seminarios</a></li>
+							<li><a href="../templates/solicitudNuevosSocios.php">Solicitud nuevos socios</a></li>
+							<li><a href="../templates/solicitudInscripcionSeminarios.php">Solicitud seminarios</a></li>
 							<li><a href="">Inscripciones pruebas de trabajo</a></li>
 							<li><a href="">Formulario de contacto</a>
 							</li>

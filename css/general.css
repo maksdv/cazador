@@ -16,8 +16,10 @@ body{
 
 .main ul{
 	float: left;
+	width: 20%;
 	margin-top: 10px;
 	margin-left: 10px;
+	box-sizing: border-box;
 }
 
 .main ul li{
@@ -52,11 +54,11 @@ body{
 	background-color:#47e84d;
 }
 content{
-	position: relative;
-	width: 80%;
+	width: 70%;
 	border:10px ridge #fff;
 	margin-left:20px;
 	float: left;
+	box-sizing: border-box;
 }
 
 footer {
@@ -76,7 +78,7 @@ footer {
 #imagMain{
 	margin-left: 25%;
 	margin-top: 20px;
-	width: 445px;
+	width: 50%;
 	margin-right: 0;
 	padding-right: 0;
 }

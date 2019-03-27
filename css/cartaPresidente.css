@@ -1,10 +1,11 @@
 section{
 	width: 80%;
 	margin-left:10%;
-	 border: 10px double green;
+	margin-top: 8%;
+	border: 10px double green;
+	float: left;
 }
 #text{
-	margin-top: 10%;
 	padding: 10px;
 }
 #esquema2{
@@ -12,7 +13,7 @@ section{
 }
 #descripcion{
 	font-size: 15px;
-	width: 200px;
+	width: 20%;
 	float: right;
 }
 #logos{

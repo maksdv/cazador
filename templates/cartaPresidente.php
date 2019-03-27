@@ -4,11 +4,10 @@
 	<title>Carta del Presidente</title>
 	<link rel="stylesheet" type="text/css" href="../css/cartaPresidente.css">
 </head>
-<body>
-
 <?php 
 	include 'header.php';
  ?>
+<body>
  <section>
  	<div id="text">
  		<center><img id="tituloCarta" src="../images/carta-del-presidente.png"></center>
@@ -42,7 +41,7 @@ Entiendo que has llegado hasta aquí interesado por esta raza práctica de caza,
 
 3- y tests genéticos (detectando la cruel enfermedad que causa la ceguera a ejemplares adultos, la luxación de cristalino).</p>
 <br><br>
-<img src="../images/esquema1.jpg" width="800px" height="800px">
+<img src="../images/esquema1.jpg" width="80%" height="auto">
 <br><br>
 <p>Todos estos exámenes, tienen un objetivo único, y es el de definir los ejemplares que pasando estos numerosos y rigurosos test, son declarados como APTOS para dejar su descendencia, pues reconocemos que poseen unas cualidades que destacan y son interesantes como legado a su descendencia: son los denominados <a href="#">APTOS DE CRIA</a>.</p>
 <br><br>
@@ -55,7 +54,7 @@ Entiendo que has llegado hasta aquí interesado por esta raza práctica de caza,
  
 <p>Cerrando el círculo de la selección, se encuentra: LA GESTION Y PUBLICACION DE LA INFORMACION</p>
 <br><br>
-<img id="esquema2" src="../images/esquema2.jpg" width="500px" height="500px">
+<img id="esquema2" src="../images/esquema2.jpg" width="50%" height="auto">
 <br><br>
 
 <p>Para ello, la A.E.D.J.T. dispone de un potente y a la vez de muy fácil manejo programa informático, donde se recogen todas las calificaciones junto con fotografías de los ejemplares y sus pedigrees, y que se encuentra al alcance de todos y cada uno de los socios desde su propia casa, se puedan ver todas las calificaciones en trabajo, morfología o salud y de todos los ejemplares que han sido testados desde la fundación de la A.E.D.J.T.</p>
@@ -83,9 +82,9 @@ Alberto Silvosa Ruiz
 <br><br>
 
 (Presidente de la Asociación Española del Deutscher Jagdterrier)
-<div>
+</div>
  </section>
 </h1>
- </div>
+ 
 </body>
 </html>
